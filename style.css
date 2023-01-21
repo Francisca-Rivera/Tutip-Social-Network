@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Courgette&family=Fira+Mono&family=Noto+Sans+JP&family=Nunito&family=Overlock&family=Silkscreen&family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andika&family=Courgette&family=Fira+Mono&family=Josefin+Sans&family=Noto+Sans+JP&family=Nunito&family=Overlock&family=Silkscreen&family=Source+Code+Pro:wght@300&display=swap');
+
+:root {
+  --title-font: 'Josefin Sans', sans-serif;
+  --body-font: 'Nunito', sans-serif;
+  --light-yellow: #fcd97a;
+  --yellow: #ffc212;
+  --non-black: #2c2d30;
+  --dark-pink: #c2549d;
+  --light-pink: #f0d4e5;
+  --non-white: #f7f6f4;
+  --gray: #8d95b3;
+  --dark-purple: #391057;
+}
